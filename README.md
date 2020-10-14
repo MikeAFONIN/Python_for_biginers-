@@ -1,3 +1,3 @@
 # Python_for_biginers-
 мой черновик для обучения
-print ('GUYR') 
+print ('GUYR') #Help to print this line
